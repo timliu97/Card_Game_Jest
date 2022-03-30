@@ -38,7 +38,7 @@ Afin de faciliter la tâche, le projet sera divisé en trois phases :
 
 ## Installation
  
- ``` download JestInterface.jar```
+ ``` download and lauch JestInterface.jar```
 
 ## Project structure
 
